@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "626934280126",
+    "project_id": "notify-46c4a",
+    "storage_bucket": "notify-46c4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626934280126:android:f49204187bd9231e9493ef",
+        "android_client_info": {
+          "package_name": "com.app.nabeel.push_notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626934280126-1dk08p7rlmfitb9pk9j59hge7e29qfbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTx5LWbhSiDUzzcFzNfj07MtjUjyEXcZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626934280126-1dk08p7rlmfitb9pk9j59hge7e29qfbd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
